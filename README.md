@@ -1,6 +1,6 @@
 # Data Cleaning Week 4 Assignment
 ## Description: Contains scripts to clean Samsung Galaxy S smartphone accelerometers
-###File Title:  README.md
+### File Title:  README.md
 Date:        18 August 2018
 Author:      Adam Weissman
 Description: Explain contents of repository
